@@ -1,5 +1,7 @@
 h1 {
   text-align: center;
+  margin-right: 85px;
+  font-family: monospace;
 }
 
 #memeForm {
@@ -48,7 +50,8 @@ img {
 
 .meme {
   display: inline-block;
-  margin: 10px;
+  margin: 60px;
+  margin-left: 50px;
   padding: 10px;
   border: 1px solid #ccc;
   background-color: #f9f9f9;
@@ -75,8 +78,8 @@ img {
 
 .delete-button {
   position: absolute;
-  top: 5px;
-  right: 5px;
+  top: 8px;
+  right: 8px;
   background: none;
   border: none;
   cursor: pointer;
@@ -104,3 +107,4 @@ img {
   cursor: pointer;
   background-color: #008CBA;
 }
+
