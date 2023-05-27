@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Meme Generator</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+    <div id=form>
+        <h1>Meme Generator</h1>
+
+          <form id="memeForm">
+            <label for="topText">Top Text:</label>
+            <input type="text" id="topText" required><br>
+        
+            <label for="bottomText">Bottom Text:</label>
+            <input type="text" id="bottomText" required><br>
+        
+            <label for="imageURL">Image URL:</label>
+            <input type="text" id="imageURL"><br>
+        
+            <label for="imageUpload">Upload Image:</label>
+            <input type="file" id="imageUpload" accept="image/*" style="margin-left: 30%;"><br>
+        
+            <!-- <input type="submit" value="Generate Meme"> -->
+            <button class="button button2">Generate Meme</button>
+            <!-- <div class="d-grid gap-2 col-6 mx-auto">
+              <button class="btn btn-primary" type="button">GENERATE MEME</button>
+            </div> -->
+          </form>
+    </div>
+
+  <div id="memeContainer"></div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
