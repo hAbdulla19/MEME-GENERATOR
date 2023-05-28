@@ -1,13 +1,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="images/SS.png" alt="Logo" width="500">
-  <h3 align="center">WHAT TO DO?</h3>
+  <img src="Images/SS.png" alt="Logo" width="500">
+  <h3 align="center">MEME GENERATOR</h3>
 
   <p align="center">
-    A To-Do app that keeps track of one's day to day objectives. A versatile app that can keep track of all sorts of tasks!
+    A Very Easy to Use App That Allows Users to Create and Design Memes In Every Way Possible. The Best Part of The Meme Generator is There Are No Water Marks or Labels Attached! 
     <br />
-    <a href="https://what-to-do.hasanabdulla.repl.co/"><strong>HOME PAGE</strong></a>
+    <a href="https://memes.hasanabdulla.repl.co/"><strong>HOME PAGE</strong></a>
   </p>
 </div>
 
@@ -29,13 +29,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/Progress.png" alt="Progress" width="1000">
+<img src="Images/SS.png" alt="SS" width="1000">
 
-There are many beneficial factors to "WHAT TO DO?" as it was designed to be a multi-purpose application. From keeping tabs on your academic to-do's and goals to managing a work schedule, the application can handle all forms of ensuring an individual stays up to date with their goals and objectives.
+The Meme Generator Is An Application That Was Designed For Users Who Want to Create Funny Memes For Their Personal Websites, Social Media Accounts, and More!
 
 <!-- CONTACT -->
 ## Contact
 
 Your Name - [Hasan Abdulla](https://www.linkedin.com/in/hasan-abdulla1903/) - ishabdulla26@gmail.com
 
-Project Link: [https://github.com/hAbdulla19/TO-DO-APP](https://github.com/hAbdulla19/TO-DO-APP)
+Project Link: [https://github.com/hAbdulla19/MEME-GENERATOR](https://github.com/hAbdulla19/MEME-GENERATOR)
